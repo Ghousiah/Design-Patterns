@@ -1,0 +1,6 @@
+D:\Ghousia\2018\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+D:\Ghousia\2018\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+D:\Ghousia\2018\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+D:\Ghousia\2018\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
+D:\Ghousia\2018\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+D:\Ghousia\2018\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
